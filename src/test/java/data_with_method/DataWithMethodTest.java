@@ -1,15 +1,10 @@
 package data_with_method;
 
 import static org.assertj.core.api.Assertions.*;
-import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-
-import data_with_method.Dividend;
-import data_with_method.Investment;
-import data_with_method.User;
 
 class DataWithMethodTest {
 	User user;
